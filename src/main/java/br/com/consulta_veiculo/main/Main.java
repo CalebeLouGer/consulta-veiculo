@@ -36,8 +36,8 @@ public class Main {
         var json = consumoApi.obterDados(endereco);
         System.out.println(json);
 
+        var dadosCarro = converteDados.obterDados(json, DadosCarro.class);
+        System.out.println(dadosCarro);
+
     }
 }
-//
-//        var dadosCarro = converteDados.obterDados(json, DadosCarro.class);
-//        System.out.println(dadosCarro);
