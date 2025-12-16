@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7146d7ef-be43-43db-9229-e37dbe8a37c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/consulta_veiculo/model/Modelos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/consulta_veiculo/model/Veiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/consulta_veiculo/ConsultaVeiculoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/consulta_veiculo/ConsultaVeiculoApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/consulta_veiculo/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/consulta_veiculo/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/consulta_veiculo/model/DadosCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/consulta_veiculo/model/DadosVeiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/consulta_veiculo/service/ConverteDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/consulta_veiculo/service/ConverteDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/consulta_veiculo/service/IConverteDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/consulta_veiculo/service/IConverteDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/consulta_veiculo/ConsultaVeiculoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/consulta_veiculo/ConsultaVeiculoApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/consulta_veiculo/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/consulta_veiculo/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/consulta_veiculo/model/DadosCarro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/consulta_veiculo/service/ConsumoApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/consulta_veiculo/service/ConsumoApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/consulta_veiculo/service/ConverteDados.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/consulta_veiculo/service/ConverteDados.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/consulta_veiculo/service/IConverteDados.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/consulta_veiculo/service/IConverteDados.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,18 +52,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ConsultaVeiculoApplication.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Usuario/Documents/IdeaProjects/consulta-veiculo",
-    "settings.editor.selected.configurable": "discord-application"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ConsultaVeiculoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/Documents/IdeaProjects/consulta-veiculo&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;discord-application&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ConsultaVeiculoApplication" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="br.com.consulta_veiculo.ConsultaVeiculoApplication" />
@@ -58,6 +76,15 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
     </configuration>
   </component>
   <component name="TaskManager">
